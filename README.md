@@ -1,3 +1,8 @@
+-=(Nemesis_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
+___
 # FPGA Clone of Konami GX400 Arcade System for MiSTer
 
 FPGA compatible core for the Nemesis (1985) arcade hardware for MiSTer FPGA, written by [LMN-san][@LmnSama], [OScherler][@oscherler], and [Raki][@RCAVictorCo]. This core is based on the Nemesis schematics from Konami and has been verified against several different physical PCBs (Konami Bubble System, Salamander, Salamander Bootleg). The game is fully playable and there are no known issues.
