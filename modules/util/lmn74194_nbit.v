@@ -26,7 +26,7 @@
 //  Based on jt74194 from jt74.v.
 //================================================================================
 
-`default_nettype none
+//`default_nettype none
 
 module lmn74194_nbit #( parameter N=4 )
 (

@@ -29,7 +29,7 @@ You can read the whole license file at http://www.gnu.org/licenses/
 //  Delayed Pulse Generator of Configurable Length
 //================================================================================
 
-`default_nettype none
+//`default_nettype none
 
 module os_pulse_gen
 #( parameter DELAY=0, DURATION=1 )

@@ -25,7 +25,7 @@
 //  Based on jtframe_ff.
 //================================================================================
 
-`default_nettype none
+//`default_nettype none
 
 module bus_ff #( parameter W=1 ) (
 	input          clk,
