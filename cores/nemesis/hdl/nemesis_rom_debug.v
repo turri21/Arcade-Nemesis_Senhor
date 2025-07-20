@@ -29,7 +29,7 @@ You can read the whole license file at http://www.gnu.org/licenses/
 //  SDRAM Debugging Utility Module (pass-through in releases)
 //================================================================================
 
-`default_nettype none
+//`default_nettype none
 
 module nemesis_rom_debug(
 	input         i_clk,

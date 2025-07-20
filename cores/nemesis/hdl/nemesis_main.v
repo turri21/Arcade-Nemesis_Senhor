@@ -29,7 +29,7 @@ You can read the whole license file at http://www.gnu.org/licenses/
 //  Nemesis Main Module (68000 CPU board minus audio)
 //================================================================================
 
-`default_nettype none
+//`default_nettype none
 
 module nemesis_main
 (

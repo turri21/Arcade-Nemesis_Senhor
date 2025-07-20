@@ -29,7 +29,7 @@ You can read the whole license file at http://www.gnu.org/licenses/
 //  68000 CPU Address Decoder
 //================================================================================
 
-`default_nettype none
+//`default_nettype none
 
 module nemesis_68k_addr_dec(
 	input        i_as_n,

@@ -29,7 +29,7 @@ You can read the whole license file at http://www.gnu.org/licenses/
 //  Nemesis Top-Level Module
 //================================================================================
 
-//`default_nettype none
+`default_nettype none
 
 module nemesis_game(
 	// Clocks

@@ -29,7 +29,7 @@ You can read the whole license file at http://www.gnu.org/licenses/
 //  Nemesis Sound Module (audio components of main CPU board)
 //================================================================================
 
-`default_nettype none
+//`default_nettype none
 
 module nemesis_sound(
 	input         i_clk,        // 48 MHz

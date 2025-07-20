@@ -29,7 +29,7 @@ You can read the whole license file at http://www.gnu.org/licenses/
 //  Sound Debugging Utility Module (omitted in releases)
 //================================================================================
 
-`default_nettype none
+//`default_nettype none
 
 module nemesis_sound_debug(
 	input      [ 4:0]  i_command,
