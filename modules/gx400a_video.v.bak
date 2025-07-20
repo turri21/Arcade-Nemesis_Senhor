@@ -29,7 +29,7 @@ You can read the whole license file at http://www.gnu.org/licenses/
 //  GX400A_VIDEO: Nemesis video module
 //================================================================================
 
-//`default_nettype none
+`default_nettype none
 `timescale 1ns/1ps
 
 module GX400A_VIDEO

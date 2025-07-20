@@ -54,7 +54,7 @@ With GX400_ADJUSTED_PLL:
 ] }
 */
 
-`default_nettype none
+//`default_nettype none
 
 module gx400_cen(
 	input      i_clk,     // 48 MHz

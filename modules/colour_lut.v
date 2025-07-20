@@ -39,7 +39,7 @@ You can read the whole license file at http://www.gnu.org/licenses/
 //      cw      => Colour width
 //      synfile => hexadecimal file to load for synthesis
 
-`default_nettype none
+//`default_nettype none
 
 module colour_lut #( parameter pw=5, cw=8, synfile="" )(
     input      clk,
