@@ -86,7 +86,7 @@ e7f2b11d 2022-04-24T15:10:00Z Add new_vblank_n test in ATTR_LATCHING_S1 state of
     use these terms in variable names.
 */
 
-`default_nettype none
+//`default_nettype none
 
 module K005295
 #(parameter               __ENABLE_DOUBLE_HEIGHT_MODE = 1'b0)

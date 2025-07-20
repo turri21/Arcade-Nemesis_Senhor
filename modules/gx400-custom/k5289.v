@@ -80,7 +80,7 @@ GND    |_|21         22|_| GND
 
 */
 
-`default_nettype none
+//`default_nettype none
 
 module K005289
 (

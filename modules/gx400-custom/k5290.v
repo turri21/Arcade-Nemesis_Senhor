@@ -29,7 +29,7 @@ You can read the whole license file at http://www.gnu.org/licenses/
 //  K0005290 Tileline Latch
 //================================================================================
 
-`default_nettype none
+//`default_nettype none
 
 module K005290
 (

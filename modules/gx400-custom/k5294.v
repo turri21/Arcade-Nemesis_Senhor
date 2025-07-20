@@ -36,7 +36,7 @@ You can read the whole license file at http://www.gnu.org/licenses/
 cd271ce6 2021-12-07T06:19:25Z Fix an ambiguous timing problem
 */
 
-`default_nettype none
+//`default_nettype none
 
 module K005294
 (

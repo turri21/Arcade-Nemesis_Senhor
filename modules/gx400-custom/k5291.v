@@ -47,7 +47,7 @@ You can read the whole license file at http://www.gnu.org/licenses/
     EPM7128 can hold this model. Consumes about 105 macrocells.
 */
 
-`default_nettype none
+//`default_nettype none
 
 module K005291
 (

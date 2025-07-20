@@ -32,7 +32,7 @@ You can read the whole license file at http://www.gnu.org/licenses/
 //  Part of the K0005293 Konami custom chip.
 //  Implemented in a PAL in the bootleg version.
 
-`default_nettype none
+//`default_nettype none
 
 /*
 

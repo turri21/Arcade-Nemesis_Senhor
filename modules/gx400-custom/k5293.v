@@ -29,7 +29,7 @@ You can read the whole license file at http://www.gnu.org/licenses/
 //  K0005293 Priority Handler
 //================================================================================
 
-`default_nettype none
+//`default_nettype none
 
 module K005293
 (
